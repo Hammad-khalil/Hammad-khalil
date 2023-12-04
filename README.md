@@ -4,11 +4,15 @@
   <img align="left" alt="Hammad Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/%E1%95%BC%CE%B1%D0%BC%D0%BC%CE%B1%C9%97-k%D0%BD%CE%B1%C9%A9%CE%B9%C9%A9-3ab35329b/">
-  <img align="left" alt="Hammad LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Hammad LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/Hammadkhalilsheikh/">
+<a href="https://www.instagram.com/@Hammadkhalilsheikh/">
   <img align="left" alt="Hammad's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<a href="https://www.Gmail.com/hammadkhalilsheikh@gmail.com/">
+  <img align="left" alt="Hammad's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 <br />
@@ -28,8 +32,8 @@ Hi, I'm Hammad Khalil, a Software Engineering student 🚀 from [Rawalpindi, Pak
 
 **Languages and Tools:**  
 
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/Hammad-khalil)](https://github.com/Hammad-khalil) 
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Hammad-khalil)](https://github.com/Hammad-khalil) 
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 
