@@ -1,4 +1,6 @@
 ### Hey 👋🏽, I'm [Hammad!](https://github.com/Hammad-khalil)
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+
 
 <a href="https://twitter.com/HAMMADTHESHEIKH">
   <img align="left" alt="Hammad Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -58,7 +60,6 @@ Hi, I'm Hammad Khalil, a Software Engineering student 🚀 from [Rawalpindi, Pak
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Hammad-khalil)](https://github.com/Hammad-khalil)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/Hammad-khalil)](https://gitlab.com/Hammad-khalil) 
 
-/*[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad-khalil&layout=compact)](https://github.com/anuraghazra/github-readme-stats) */
 
 
 
