@@ -1,4 +1,4 @@
-### <img src="https://github.com/Hammad-khalil/Assets/blob/main/Earth.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/Hammad-khalil/Assets/blob/main/Earth.gif" width="24px"> , I'm [Hammad!](https://github.com/Hammad-khalil)
+### <img src="https://github.com/Hammad-khalil/Assets/blob/main/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/Hammad-khalil/Assets/blob/main/Earth.gif" width="24px"> , I'm [Hammad!](https://github.com/Hammad-khalil)
 
 <a href="https://twitter.com/HAMMADTHESHEIKH">
   <img align="left" alt="Hammad Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
