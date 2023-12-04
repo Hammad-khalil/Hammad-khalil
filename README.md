@@ -58,6 +58,9 @@ Hi, I'm Hammad Khalil, a Software Engineering student 🚀 from [Rawalpindi, Pak
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Hammad-khalil)](https://github.com/Hammad-khalil)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/Hammad-khalil)](https://gitlab.com/Hammad-khalil) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad-khalil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
