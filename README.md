@@ -56,8 +56,26 @@ Hi, I'm Hammad Khalil, a Software Engineering student 🚀 from [Rawalpindi, Pak
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/Hammad-khalil)](https://gitlab.com/Hammad-khalil) 
 
 
+<br />
+<br />
 
+# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
+  <a href="https://www.linkedin.com/in/satyam-goyal26/">
+    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://twitter.com/SatYug26">
+    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/satyu.26/">
+    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:goyalsatyam8@gmail.com">
+    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
+
+<br />
+<br />
 
 <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 
