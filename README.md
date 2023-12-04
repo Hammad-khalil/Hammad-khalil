@@ -67,7 +67,7 @@
   <img align="left" alt="Hammad Khalil | Linkedin" width="24px" src="https://github.com/Hammad-khalil/Assets/blob/main/Linkedin.svg" />
 </a>
 
-<a href="[https://twitter.com/SatYug26](https://twitter.com/HAMMADTHESHEIKH)">
+<a href="https://twitter.com/HAMMADTHESHEIKH">
   <img align="left" alt="Hammad Khalil | Twitter" width="26px" src="https://github.com/Hammad-khalil/Assets/blob/main/Twitter.svg" />
 </a>
 
