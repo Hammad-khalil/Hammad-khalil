@@ -26,6 +26,9 @@ Hi, I'm Hammad Khalil, a Software Engineering student 🚀 from [Rawalpindi, Pak
 - 💬 Feel free to ask me about anything related to programming;
 - 🚀 Let's connect and code together!
 
+- ![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/Hammad-khalil)
+- ![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/Hammad-khalil?history_days=30)
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
