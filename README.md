@@ -7,7 +7,7 @@
   <img align="left" alt="Hammad LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/@Hammadkhalilsheikh/">
+<a href="https://www.instagram.com/@Hammadkhalilsheikh">
   <img align="left" alt="Hammad's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
@@ -77,19 +77,19 @@ Hi, I'm Hammad Khalil, a Software Engineering student 🚀 from [Rawalpindi, Pak
 <br />
 <br />
 
-# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+# Connect with me<img src="https://github.com/Hammad-khalil/Assets/blob/main/Handshake.gif" height="32px">
 
-  <a href="https://www.linkedin.com/in/satyam-goyal26/">
-    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <a href="https://www.linkedin.com/in/%E1%95%BC%CE%B1%D0%BC%D0%BC%CE%B1%C9%97-k%D0%BD%CE%B1%C9%A9%CE%B9%C9%A9-3ab35329b/">
+    <img align="left" alt="Hammad Khalil | Linkedin" width="24px" src="https://github.com/Hammad-khalil/Assets/blob/main/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/SatYug26">
-    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+  <a href="[https://twitter.com/SatYug26](https://twitter.com/HAMMADTHESHEIKH)">
+    <img align="left" alt="Hammad Khalil | Twitter" width="26px" src="https://github.com/Hammad-khalil/Assets/blob/main/Twitter.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/satyu.26/">
-    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  <a href="https://www.instagram.com/@Hammadkhalilsheikh">
+    <img align="left" alt="Hammad Khalil | Instagram" width="24px" src="https://github.com/Hammad-khalil/Assets/blob/main/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:goyalsatyam8@gmail.com">
-    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <a href="mailto:hammadkhalilsheikh@gmail.com">
+    <img align="left" alt="Hammad Khalil | Gmail" width="26px" src="https://github.com/Hammad-khalil/Assets/blob/main/Gmail.svg" />
   </a>
 
 <br />
