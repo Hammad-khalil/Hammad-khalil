@@ -29,11 +29,6 @@ Hi, I'm Hammad Khalil, a Software Engineering student 🚀 from [Rawalpindi, Pak
 
 <!-- Add your preferred languages and tools here -->
 
-![Hammad's github stats](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="Your_Project_Repository_Link">
-  <img align="left" src="Your_Project_Repository_Badge_Link" />
-</a>
 
 <!-- Add more project repositories as needed -->
 **Languages and Tools:**  
