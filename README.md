@@ -16,6 +16,7 @@
 
 Hi, I'm Hammad Khalil, a Software Engineering student 🚀 from [Rawalpindi, Pakistan]. Currently, I'm diving into Vue.js and passionate about front-end development. Let's connect and code together!
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal kinds of Stuff:**
 
