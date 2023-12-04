@@ -1,19 +1,6 @@
 ### <img src="https://github.com/Hammad-khalil/Assets/blob/main/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/Hammad-khalil/Assets/blob/main/Earth.gif" width="24px"> , I'm [Hammad!](https://github.com/Hammad-khalil)
 
-<a href="https://twitter.com/HAMMADTHESHEIKH">
-  <img align="left" alt="Hammad Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/%E1%95%BC%CE%B1%D0%BC%D0%BC%CE%B1%C9%97-k%D0%BD%CE%B1%C9%A9%CE%B9%C9%A9-3ab35329b/">
-  <img align="left" alt="Hammad LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 
-<a href="https://www.instagram.com/@Hammadkhalilsheikh">
-  <img align="left" alt="Hammad's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<a href="https://www.Gmail.com/hammadkhalilsheikh@gmail.com/">
-  <img align="left" alt="Hammad's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
 
 <br />
 <br />
