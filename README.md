@@ -29,7 +29,7 @@ Hi, I'm Hammad Khalil, a Software Engineering student 🚀 from [Rawalpindi, Pak
 
 <!-- Add your preferred languages and tools here -->
 
-![Hammad's github stats](Your_GitHub_Stats_Link)
+![Hammad's github stats](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="Your_Project_Repository_Link">
   <img align="left" src="Your_Project_Repository_Badge_Link" />
@@ -37,7 +37,7 @@ Hi, I'm Hammad Khalil, a Software Engineering student 🚀 from [Rawalpindi, Pak
 
 <!-- Add more project repositories as needed -->
 
-⭐️ From [Hammad Khalil](https://github.com/Hammad-khalil/)
+⭐️ From [Hammad Khalil](https://github.com/Hammad-khalil)
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
