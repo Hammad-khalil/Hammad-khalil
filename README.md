@@ -57,6 +57,6 @@ Hi, I'm Hammad Khalil, a Software Engineering student 🚀 from [Rawalpindi, Pak
 
 <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 
-<a href="https://github-readme-stats.vercel.app/api?username=iamirulofficial&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+<a href="https://github-readme-stats.vercel.app/api?username=Hammad-khalil&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
   <img src="https://github-readme-stats.vercel.app/api?username=Hammad-khalil&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
