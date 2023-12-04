@@ -1,11 +1,11 @@
-### <img src="https://github.com/Hammad-khalil/Assets/blob/main/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/Hammad-khalil/Assets/blob/main/Earth.gif" width="24px"> , I'm [Hammad!](https://github.com/Hammad-khalil)
+### <img src="https://github.com/Hammad-khalil/Assets/blob/main/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/Hammad-khalil/Assets/blob/main/Earth.gif" width="24px"> 
 
 
 
 <br />
 <br />
 
-Hi, I'm Hammad Khalil, a Software Engineering student 🚀 from [Rawalpindi, Pakistan]. Currently, I'm diving into Vue.js and passionate about front-end development. Let's connect and code together!
+### I'm Hammad Khalil, a Software Engineering student 🚀 from [Rawalpindi, Pakistan]. Currently, I'm diving into Vue.js and passionate about front-end development. Let's connect and code together!
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
