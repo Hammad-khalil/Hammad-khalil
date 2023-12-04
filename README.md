@@ -1,7 +1,5 @@
 ### <img src="https://github.com/Hammad-khalil/Assets/blob/main/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/Hammad-khalil/Assets/blob/main/Earth.gif" width="24px"> 
 
-
-
 <br />
 <br />
 
