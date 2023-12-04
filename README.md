@@ -56,6 +56,24 @@ Hi, I'm Hammad Khalil, a Software Engineering student 🚀 from [Rawalpindi, Pak
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/Hammad-khalil)](https://gitlab.com/Hammad-khalil) 
 
 
+
+<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+
+</p> 
+ <!-- ![Hammad Github Stats](https://github-readme-stats.vercel.app/api?username=Hammad-khalil&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)-->
+
+
+
+<p align="center">
+<a href="https://github-readme-stats.vercel.app/api?username=Hammad-khalil&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hammad-khalil&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+  
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+
+
+
 <br />
 <br />
 
@@ -76,18 +94,3 @@ Hi, I'm Hammad Khalil, a Software Engineering student 🚀 from [Rawalpindi, Pak
 
 <br />
 <br />
-
-<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-
-</p> 
- <!-- ![Hammad Github Stats](https://github-readme-stats.vercel.app/api?username=Hammad-khalil&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)-->
-
-
-
-<p align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=Hammad-khalil&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hammad-khalil&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-  
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
