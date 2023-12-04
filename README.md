@@ -1,34 +1,23 @@
-### Hey 👋🏽, I'm [Hammad!]([https://abhisheknaidu.tech](https://github.com/Hammad-khalil)) 
+### Hey 👋🏽, I'm [Hammad!](https://github.com/Hammad-khalil)
 
 <a href="https://twitter.com/HAMMADTHESHEIKH">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/HAMMADKHALIL">
+<a href="https://www.linkedin.com/in/%E1%95%BC%CE%B1%D0%BC%D0%BC%CE%B1%C9%97-k%D0%BD%CE%B1%C9%A9%CE%B9%C9%A9-3ab35329b/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/HK">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+
 <a href="https://www.instagram.com/Hammadkhalilsheikh/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user/404">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://leetcode.com/hammadkhalilsheikh/">
-  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.codechef.com/users/HammadKhalilSheikh">
-  <img align="left" alt="Abhishek's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
 
 <br />
 <br />
 
-Hi, I'm Hammad Khalil, a Software Engineering student 🚀 from [Rawalpindi , Pakistan]. Currently, I'm diving into Vue.js and passionate about front-end development. Let's connect and code together!
+Hi, I'm Hammad Khalil, a Software Engineering student 🚀 from [Rawalpindi, Pakistan]. Currently, I'm diving into Vue.js and passionate about front-end development. Let's connect and code together!
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-**Talking about Personal Stuffs:**
+**Talking about Personal kinds of Stuff:**
 
 - 💻 I’m currently learning Vue.js;
 - 🌱 I’m a Front-end Enthusiast;
@@ -65,14 +54,11 @@ Hi, I'm Hammad Khalil, a Software Engineering student 🚀 from [Rawalpindi , Pa
 
 
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=Hammad-khalil&show_icons=true&hide_border=true)
+![Hammad's github stats](https://github-readme-stats.vercel.app/api?username=Hammad-khalil&show_icons=true&hide_border=true)
 
 ⭐️ From [Hammad Sheikh](https://github.com/Hammad-khalil/)
 
 
-<a href="https://github.com/Hammad-khalil/A-POP">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=A-POP" />
-</a>
 
 <a href="https://github.com/Hammad-khalil/">
   <img align="left" src="https://github.com/Hammad-khalil/" />
