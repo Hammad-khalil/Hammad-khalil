@@ -8,7 +8,7 @@
   
 **Talking about Personal kinds of Stuff:**
 
-- 💻 I’m currently learning Vue.js;
+- 💻 I’m currently working on Vue.js;
 - 🌱 I’m a Front-end Enthusiast;
 - 👯 Let's collaborate on exciting projects! 🤝;
 - 💬 Feel free to ask me about anything related to programming;
