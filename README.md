@@ -63,7 +63,7 @@
 
 # Connect with me <img src="https://github.com/Hammad-khalil/Assets/blob/main/Handshake.gif" height="32px">
 
-<a href="https://www.linkedin.com/in/%E1%95%BC%CE%B1%D0%BC%D0%BC%CE%B1%C9%97-k%D0%BD%CE%B1%C9%A9%CE%B9%C9%A9-3ab35329b/">
+<a href="https://www.linkedin.com/in/hammad-khalil-sheikh/">
   <img align="left" alt="Hammad Khalil | Linkedin" width="24px" src="https://github.com/Hammad-khalil/Assets/blob/main/Linkedin.svg" />
 </a>
 
