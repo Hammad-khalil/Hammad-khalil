@@ -2,7 +2,7 @@
 
 <br />
 
-### I'm Hammad Khalil, a Software Engineering student and Web Developer 🚀 from 🇵🇰. Currently, I'm diving into Vue.js and am passionate about Web and Application development. Let's connect and code together!
+### I'm Hammad Khalil, a Web Developer 🚀 from 🇵🇰. Currently, I'm diving into Vue.js and am passionate about Web and Application development. Let's connect and code together!
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
