@@ -71,7 +71,7 @@
   <img align="left" alt="Hammad Khalil | Twitter" width="26px" src="https://github.com/Hammad-khalil/Assets/blob/main/Twitter.svg" />
 </a>
 
-<a href="https://www.instagram.com/@Hammadkhalilsheikh">
+<a href="https://www.instagram.com/hammadkhalilsheikh/">
   <img align="left" alt="Hammad Khalil | Instagram" width="24px" src="https://github.com/Hammad-khalil/Assets/blob/main/Instagram.svg" />
 </a>
 
