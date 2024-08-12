@@ -54,7 +54,7 @@
 </a>
 
   
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/Hammad-khalil/Assets/blob/main/cover-image.png" width="50%" height="auto" />
 
 
 
