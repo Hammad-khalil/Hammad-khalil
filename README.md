@@ -8,7 +8,7 @@
   
 **Talking about Personal kinds of Stuff:**
 
-- 💻 I’m a React.js and Vue.js frontend developer with knowledge in C# and Java, and proficient in SQL.;
+- 💻 I’m a React.js and Vue.js frontend developer with knowledge in C# and Java, and proficient in SQL;
 - 🌱 I’m a Front-end Enthusiast;
 - 👯 Let's collaborate on exciting projects! 🤝;
 - 💬 Feel free to ask me about anything related to programming;
